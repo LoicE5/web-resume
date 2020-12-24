@@ -1,9 +1,9 @@
 <?php
     # mysqli simple connection system
-    $user = 'letien04';
-    $pass = '5Wiyqaeh5j';
-    $db = 'letien04_db';
-    $server = 'sqletud.u-pem.fr';
+    $user = '/';
+    $pass = '/';
+    $db = '/';
+    $server = '/';
 
     $user2 = 'root';
     $pass2 = 'root';
