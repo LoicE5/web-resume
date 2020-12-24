@@ -1,4 +1,4 @@
-<?php include 'assets/.connect.php'; ?>
+<?php include 'assets/connect.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
