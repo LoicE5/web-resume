@@ -1,5 +1,5 @@
 <?php
-    # mysqli simple connection system
+    # mysqli simple connection system //
     $user = 'anid';
     $pass = 'apassword';
     $db = 'adb';
