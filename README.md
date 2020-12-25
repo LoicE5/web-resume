@@ -24,3 +24,7 @@ I made my web Resume using HTML, CSS, JavaScript & PHP languages, and in a one-p
 ## Language
 
 🇬🇧 &nbsp;English 
+
+### Links
+
+**[Get to the project here !](https://perso-etudiant.u-pem.fr/~letien04/web_resume/)**
