@@ -27,4 +27,4 @@ I made my web Resume using HTML, CSS, JavaScript & PHP languages, and in a one-p
 
 ### Links
 
-**[Get to the project here !](https://perso-etudiant.u-pem.fr/~letien04/web_resume/)**
+**[Get to the project here !](https://loic.finance/web_resume/)**
