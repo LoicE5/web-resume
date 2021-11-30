@@ -15,7 +15,7 @@
             <h2>Hi, welcome to my webpage !</h2>
             <p class="changing">I am <span>a student</span>.</p>
             <a href="#contact" class="mainButton">Contact me</a>
-            <a href="" class="mainButton myCV">My CV</a>
+            <a href="files/loic_etienne_resume.pdf" class="mainButton myCV">My Resume</a>
         </section>
         <div></div>
         <div></div>
@@ -25,7 +25,7 @@
         <div class="description">
             <article>
                 <h1>Hi,</h1>
-                <p>my name is Loïc Etienne, I'm 19 years old. I enjoy conciliating code and creativity through my web development workflow. Currently in the first year of my university-level technical degree about multimedia and internet, I aim to provide to everyone creative and modern websites that fit their needs.</p>
+                <p>my name is Loïc Etienne, I'm 20 years old. I enjoy conciliating code and creativity through my web development workflow. Currently in the first year of my university-level technical degree about multimedia and internet, I aim to provide to everyone creative and modern websites that fit their needs.</p>
                 <br>
                 <p>Alongside to my studies, I enjoy playing video games, learning new things, investing and chilling with my friends !</p>
                 <a href="" class="mainButton">My portfolio</a>
