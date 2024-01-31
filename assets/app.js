@@ -25,7 +25,7 @@ function forVeryLargeDisplays(){
 
 /*⬇ Code from Useful Angle → https://usefulangle.com/post/75/typing-effect-animation-javascript-css ⬇*/
 
-var _CONTENT = [ "a student", "a web developer", "a tech enthusiast", "an investor","a web designer"];
+var _CONTENT = [ "a student", "a web developer", "a tech enthusiast", "a web designer"];
 
 // Current sentence being processed
 var _PART = 0;

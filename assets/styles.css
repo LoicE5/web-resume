@@ -148,6 +148,12 @@ main {
     overflow-y: scroll;
     box-shadow: 5px 5px 20px gray;
     /* margin-top: 50px; */
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.description>article::-webkit-scrollbar {
+    display: none;
 }
 
 .description p {
