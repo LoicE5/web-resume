@@ -1,4 +1,3 @@
-<?php include 'assets/connect.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,13 +12,3 @@
     <a href="index.php" class="mainButton" id="goback">Home Page</a>
 </body>
 </html>
-<?php
-        if(isset($_POST["submit"])){
-            $mail = mysqli_real_escape_string($conn,$_POST["mail"]);
-            $message = mysqli_real_escape_string($conn,$_POST["message"]);
-            $query = mysqli_query($conn,"INSERT INTO `cv_data` (mail,message) VALUES ('$mail','$message')") or die('ÇA MARCHE PAS');
-
-        } else {
-            echo 'ERROR, please try again';
-        }
-?>
