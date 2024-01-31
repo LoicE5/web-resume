@@ -1,6 +1,13 @@
 window.onload = ()=>{
-    forVeryLargeDisplays();
-    console.log(window.innerWidth);
+    forVeryLargeDisplays()
+    alert(`
+        Hello there!\n\n
+        It seems that you have found my old web résumé!\n\n
+        I built it at the beginning of my coding journey in 2020.\n
+        My cursus, experiences, and skills have evolved A LOT since then. But I left it pretty much as is for the record.\n\n
+        If you'd like to know more, please press the 'My GitHub' button on the home page (you'll need to scroll a little bit to see it).\n\n
+        Enjoy your visit!
+    `)
 }
 
 window.onresize = ()=>{
